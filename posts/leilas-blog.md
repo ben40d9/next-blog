@@ -6,6 +6,7 @@ date: "October 7th, 2022"
 
 # Here is my heading
 
-Hello this is my blog that I will write. Just need to test functionality of app.
+Hello this is Leila I am so cool, also so funny, did I forget to say hot AND sexy?!!?!?!
+Here we will discuss everything la la o alla
 
 Here is another paragraph that I am writing.
