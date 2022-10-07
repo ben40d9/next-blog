@@ -50,7 +50,10 @@ export default function Home({ posts }) {
                 alt={frontmatter.title}
                 src={`/${frontmatter.socialImage}`}
               />
-              <h1 className="p-4">{frontmatter.title}</h1>
+              <h1 className="p-4 text-xl text-center">{frontmatter.title}</h1>
+              <h2 className="p-4 text-sm text-left align-baseline">
+                {frontmatter.date}
+              </h2>
             </a>
           </Link>
         </div>
