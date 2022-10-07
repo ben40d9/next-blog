@@ -1,4 +1,4 @@
-This is a [Next.js] project bootstrapped w/ [create-next-app]
+This is a **Next.js** project bootstrapped w/**create-next-app**
 
 ## Getting Started
 
