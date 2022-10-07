@@ -14,6 +14,6 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 ## Packages Used
 
-**_gray-matter_** : allows us to parse the formatter section and the content section from a content string<br>
-**_markdown-it_** : pkg can convert markdown into HTML<br>
-**_typography_** : plugin that makes md translation "pretty"
+1. **_gray-matter_** : allows us to parse the formatter section and the content section from a content string<br>
+2. **_markdown-it_** : pkg can convert markdown into HTML<br>
+3. **_typography_** : plugin that makes md translation "pretty"
