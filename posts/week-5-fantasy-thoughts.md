@@ -1,7 +1,7 @@
 ---
 title: "Week 5 Fantasy Football Thoughts"
 socialImage: images/JPG_Test.jpg
-date: "2022-10-07"
+date: "October 7th, 2022"
 ---
 
 # Here is my heading
