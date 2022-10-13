@@ -15,5 +15,3 @@ Kyle Pitts is hurt and we need to stream a TE and don't love the options on wavi
 I am simply in love w/ the idea of Taysom Hill at TE, especially if Kamara is out / still hurt.
 Also the fact that Andy Dalton is starting means that the Saints will probably call Taysom's number more and possibly even just run him out as QB1
 The idea of seeing my TE line-up in QB-Power near the goal-line is the absolute dream & I can not pass this up.
-
-Here is another paragraph that I am writing.
