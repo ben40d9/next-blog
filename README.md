@@ -1,4 +1,4 @@
-## Getting Started
+## a blog site (written in markdown) powered by next.js
 
 First, run the development server:
 
@@ -7,8 +7,6 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-a blog site (written in markdown) powered by next.js
 
 ## dependencies & devDependencies
 
